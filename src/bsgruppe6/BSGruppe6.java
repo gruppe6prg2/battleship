@@ -15,6 +15,6 @@ public class BSGruppe6 {
      */
     public static void main(String[] args) {
         //Test//
-        
+        //Dini M
     }
 }
